@@ -17,3 +17,6 @@ if bowl only has cereal in it:
           add milk
 ```
 
+``test single line block``
+1. line 1
+2. line 2 
